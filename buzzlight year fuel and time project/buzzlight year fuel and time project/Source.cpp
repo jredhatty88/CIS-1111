@@ -17,6 +17,8 @@ int main() {
 	double amountOfFuelUsed;
 	
 
+	// this a change to show what a commit to will look like...
+
 
 	cout << "Enter the amount of miles Buzz Lightyear will travel on his 2nd trip: ";
 	cin >> distanceTraveled;
